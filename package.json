@@ -1,12 +1,12 @@
 {
-  "name": "atom-python-run",
-  "main": "./lib/atom-python-run.js",
+  "name": "atom-python-run-namlose",
+  "main": "./lib/atom-python-run-namlose.js",
   "version": "0.9.6",
   "description": "Run a python source file.",
   "keywords": [
     "python"
   ],
-  "repository": "https://github.com/foreshadow/atom-python-run",
+  "repository": "https://github.com/namlose/atom-python-run-namlose",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

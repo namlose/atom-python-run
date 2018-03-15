@@ -1,3 +1,6 @@
+## 0.9.4.1.1.0
+* Modified keybindings due to a conflict with Gpp compiler in Atom
+
 ## 0.9.4
 * Fixed inconsistency due to editor.save becoming async
 
