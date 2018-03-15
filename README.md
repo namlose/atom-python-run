@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/foreshadow/atom-python-run.svg?style=plastic)](https://github.com/foreshadow/atom-python-run/network)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/foreshadow/atom-python-run/master/LICENSE.md)
 
-Run your python (.py) source file using `F5` or `F6`!
+Run your python (.py) source file using `Alt + F5` or `Ctrl + Alt + F6`!
 
 ![](https://cloud.githubusercontent.com/assets/2712675/18710388/9a665ed8-8037-11e6-803a-35e4555e89d0.jpg)
 
@@ -28,7 +28,7 @@ Run your python (.py) source file using `F5` or `F6`!
 # Method of use
 
 1. Open a source file.
-2. Hit `F5` or `F6` to run.
+2. Hit `Alt + F5` or `Ctrl + Alt + F6` to run.
   - **It will save the file in current editor immediately without a confirmation, be aware.**
 
 # Features
